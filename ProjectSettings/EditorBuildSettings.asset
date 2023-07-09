@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneTransistionTests(DUPLICATE; DO NOT EDIT DIRECTLY)/DayTrsTest.unity
+    guid: 5370e634928e60342a9b8f78cf1e98ff
+  - enabled: 1
+    path: Assets/Scenes/SceneTransistionTests(DUPLICATE; DO NOT EDIT DIRECTLY)/NightTrsTest.unity
+    guid: 4c9a69ba6a8bc40488ac378f95751337
+  - enabled: 1
+    path: Assets/Scenes/SceneTransistionTests(DUPLICATE; DO NOT EDIT DIRECTLY)/Jacobs
+      Duplications/DayTrsTest 1.unity
+    guid: fd85f829975f021469f9791e07a92c0b
+  - enabled: 1
+    path: Assets/Scenes/SceneTransistionTests(DUPLICATE; DO NOT EDIT DIRECTLY)/Jacobs
+      Duplications/NightTrsTest 1.unity
+    guid: 9e968a3fd9e76f2419e43e64c3883bfe
+  - enabled: 1
+    path: Assets/Scenes/SceneTransistionTests(DUPLICATE; DO NOT EDIT DIRECTLY)/End.unity
+    guid: 839d5374dd066d844adebedab761385a
+  - enabled: 1
+    path: Assets/Scenes/Game/Tutorial.unity
+    guid: 34d8cf4f7d910bb43966ae274e33a1c7
+  - enabled: 1
+    path: Assets/Scenes/Game/Night.unity
+    guid: 3bbf0d536778b2748be8c96f45c72706
+  - enabled: 1
+    path: Assets/Scenes/Game/Day.unity
+    guid: 542c2c45c80e7174bb30e3ec2fdda137
+  - enabled: 1
+    path: Assets/Scenes/Game/End.unity
+    guid: a5ee366d89c3e1f498e25b6440e2a62a
+  - enabled: 1
+    path: Assets/Scenes/Game/End2.unity
+    guid: e5a14943178e3ee4f9aae0cfa0c35cbf
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c846a62858d99e749bf6ee43dd2316a6, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 1ec4a165b1211674aa7bf3a21ba65fdd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1fcccc4da4bd26046acbb5af5bdc1ef9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ce091bc6856382c4cb8a7aab520f3aac, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: c402015e51a249c4cbad4cb958a1458e, type: 2}
